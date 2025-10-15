@@ -6,7 +6,7 @@ wanna c my boring stats?
 
 **Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,typescript,javascript,react,nextjs,dart,flutter,python,nodejs,tailwind,vite,postgresql,swift,figma,docker,vscode,supabase,linux,raspberrypi,vercel)](https://skillicons.dev/icons?i=svelte,typescript,javascript,react,nextjs,dart,flutter,python,nodejs,tailwind,vite,postgresql,swift,figma,docker,vscode,supabase,linux,raspberrypi,vercel)
+[![My Skills](https://skillicons.dev/icons?i=svelte,typescript,javascript,react,nextjs,astro,dart,flutter,python,nodejs,tailwind,vite,postgresql,swift,figma,docker,vscode,supabase,linux,raspberrypi,vercel)](https://skillicons.dev/icons?i=svelte,typescript,javascript,react,nextjs,astro,dart,flutter,python,nodejs,tailwind,vite,postgresql,swift,figma,docker,vscode,supabase,linux,raspberrypi,vercel)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=judekim0507&show_icons=true&hide_border=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judekim0507&layout=compact&langs_count=8"/>
