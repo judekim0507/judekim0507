@@ -1,7 +1,5 @@
 ## Hey! 
 
-wanna c my boring stats? 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=judekim0507)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Skills:**
