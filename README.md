@@ -1,13 +1,11 @@
 ## Hey! 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=judekim0507)](https://github.com/ryo-ma/github-profile-trophy)
-
 **Skills:**
 
 [![My Skills](https://skillicons.dev/icons?i=svelte,typescript,javascript,react,nextjs,astro,dart,flutter,python,nodejs,tailwind,vite,postgresql,swift,figma,docker,vscode,supabase,linux,raspberrypi,vercel)](https://skillicons.dev/icons?i=svelte,typescript,javascript,react,nextjs,astro,dart,flutter,python,nodejs,tailwind,vite,postgresql,swift,figma,docker,vscode,supabase,linux,raspberrypi,vercel)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=judekim0507&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judekim0507&layout=compact&langs_count=8"/>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=judekim0507&include_all_commits=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![GitHub Langs](https://github-stats-extended.vercel.app/api/top-langs?username=judekim0507&layout=compact&langs_count=4&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 <!--
 ![judekim0507's Stats](https://github-readme-stats.vercel.app/api?username=judekim0507&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
