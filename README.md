@@ -7,6 +7,8 @@
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=judekim0507&include_all_commits=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![GitHub Langs](https://github-stats-extended.vercel.app/api/top-langs?username=judekim0507&layout=compact&langs_count=4&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
+![](https://komarev.com/ghpvc/?username=judekim0507)
+
 <!--
 ![judekim0507's Stats](https://github-readme-stats.vercel.app/api?username=judekim0507&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![judekim0507's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judekim0507&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
