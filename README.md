@@ -1,4 +1,30 @@
-## Hey! 
+# jude
+
+full-stack dev, high school student. i like building things and shipping them.
+
+founder [@Bytea](https://www.bytea.io/). building [@Closeby](https://trycloseby.com) & [@AgentFork](https://agentfork.dev). dev [@Nook Browser](https://www.browsewithnook.com/).
+
+also made: [better-myed](https://github.com/judekim0507/better-myed), [dockbit](https://github.com/judekim0507/better-myed), a food ordering system, many things for our school's [student gov](https://bnsstugov.ca) and too many sveltekit apps.
+
+---
+
+```js
+const jude = {
+  daily: ["sveltekit", "typescript", "tailwind", "swift"],
+  also: ["react native", "expo", "convex", "prisma"],
+  experimenting: ["webgl", "metal", "gsap"],
+  tools: ["bun", "vite", "figma", "sanity"]
+};
+```
+
+---
+
+[judekim.com](https://judekim.com) · [twitter](https://x.com/imjudekim)
+
+
+
+
+<!--## Hey! 
 
 **Skills:**
 
@@ -7,7 +33,7 @@
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=judekim0507&include_all_commits=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![GitHub Langs](https://github-stats-extended.vercel.app/api/top-langs?username=judekim0507&layout=compact&langs_count=4&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-![](https://komarev.com/ghpvc/?username=judekim0507)
+![](https://komarev.com/ghpvc/?username=judekim0507) -->
 
 <!--
 ![judekim0507's Stats](https://github-readme-stats.vercel.app/api?username=judekim0507&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
