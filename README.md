@@ -2,9 +2,7 @@
 
 full-stack dev, high school student. i like building things and shipping them.
 
-founder [@Bytea](https://www.bytea.io/). building [@Closeby](https://trycloseby.com) & [@AgentFork](https://agentfork.dev). dev [@Nook Browser](https://www.browsewithnook.com/).
-
-also made: [better-myed](https://github.com/judekim0507/better-myed), [dockbit](https://github.com/judekim0507/better-myed), a food ordering system, many things for our school's [student gov](https://bnsstugov.ca) and too many sveltekit apps.
+founder [@Bytea](https://www.bytea.io/). building [@Crayp](https://crayp.com) & [@Closeby](https://trycloseby.com). dev [@Nook Browser](https://www.browsewithnook.com/) and many more
 
 ---
 
