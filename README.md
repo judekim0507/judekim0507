@@ -2,7 +2,7 @@
 
 full-stack dev, high school student. i like building things and shipping them.
 
-founder [@Bytea](https://www.bytea.io/). building [@Crayp](https://crayp.com) & [@Closeby](https://trycloseby.com). dev [@Nook Browser](https://www.browsewithnook.com/) and many more
+founder [@Bytea](https://www.bytea.io/). building [@Motioner](https://motioner.app) & [@Closeby](https://trycloseby.com). dev [@Nook Browser](https://www.browsewithnook.com/) and many more
 
 ---
 
