@@ -1,22 +1,5 @@
 # jude
 
-full-stack dev, high school student. i like building things and shipping them.
-
-founder [@Bytea](https://www.bytea.io/). building [@Motioner](https://motioner.app) & [@Closeby](https://trycloseby.com). dev [@Nook Browser](https://www.browsewithnook.com/) and many more
-
----
-
-```js
-const jude = {
-  daily: ["sveltekit", "typescript", "tailwind", "swift"],
-  also: ["react native", "expo", "convex", "prisma"],
-  experimenting: ["webgl", "metal", "gsap"],
-  tools: ["bun", "vite", "figma", "sanity"]
-};
-```
-
----
-
 [judekim.com](https://judekim.com) · [twitter](https://x.com/imjudekim)
 
 
